@@ -1,0 +1,6 @@
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\BallisticsTraining\bin\Debug\BallisticsTraining.exe.config
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\BallisticsTraining\bin\Debug\BallisticsTraining.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\BallisticsTraining\bin\Debug\BallisticsTraining.pdb
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\BallisticsTraining\obj\Debug\BallisticsTraining.csprojResolveAssemblyReference.cache
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\BallisticsTraining\obj\Debug\BallisticsTraining.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\BallisticsTraining\obj\Debug\BallisticsTraining.pdb

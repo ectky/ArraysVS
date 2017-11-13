@@ -1,0 +1,6 @@
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\CharRotation\bin\Debug\CharRotation.exe.config
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\CharRotation\bin\Debug\CharRotation.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\CharRotation\bin\Debug\CharRotation.pdb
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\CharRotation\obj\Debug\CharRotation.csprojResolveAssemblyReference.cache
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\CharRotation\obj\Debug\CharRotation.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\CharRotation\obj\Debug\CharRotation.pdb
