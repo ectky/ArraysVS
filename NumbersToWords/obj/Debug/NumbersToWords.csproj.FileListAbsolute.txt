@@ -1,0 +1,6 @@
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\NumbersToWords\bin\Debug\NumbersToWords.exe.config
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\NumbersToWords\bin\Debug\NumbersToWords.exe
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\NumbersToWords\bin\Debug\NumbersToWords.pdb
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\NumbersToWords\obj\Debug\NumbersToWords.csprojResolveAssemblyReference.cache
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\NumbersToWords\obj\Debug\NumbersToWords.exe
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\NumbersToWords\obj\Debug\NumbersToWords.pdb

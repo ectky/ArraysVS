@@ -1,0 +1,6 @@
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\Phone\bin\Debug\Phone.exe.config
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\Phone\bin\Debug\Phone.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\Phone\bin\Debug\Phone.pdb
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\Phone\obj\Debug\Phone.csprojResolveAssemblyReference.cache
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\Phone\obj\Debug\Phone.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\Phone\obj\Debug\Phone.pdb
