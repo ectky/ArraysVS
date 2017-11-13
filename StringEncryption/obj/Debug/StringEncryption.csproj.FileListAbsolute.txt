@@ -1,0 +1,5 @@
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\StringEncryption\bin\Debug\StringEncryption.exe.config
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\StringEncryption\bin\Debug\StringEncryption.exe
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\StringEncryption\bin\Debug\StringEncryption.pdb
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\StringEncryption\obj\Debug\StringEncryption.exe
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\StringEncryption\obj\Debug\StringEncryption.pdb

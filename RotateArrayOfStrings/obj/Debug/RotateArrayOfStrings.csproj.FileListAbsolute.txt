@@ -1,0 +1,6 @@
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.exe.config
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.exe
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.pdb
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.csprojResolveAssemblyReference.cache
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.exe
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.pdb

@@ -1,0 +1,6 @@
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\ResizableArray\obj\Debug\ResizableArray.csprojResolveAssemblyReference.cache
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\ResizableArray\bin\Debug\ResizableArray.exe.config
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\ResizableArray\bin\Debug\ResizableArray.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\ResizableArray\bin\Debug\ResizableArray.pdb
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\ResizableArray\obj\Debug\ResizableArray.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\ResizableArray\obj\Debug\ResizableArray.pdb
