@@ -1,0 +1,5 @@
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\ArrayElementsEqualToTheirIndex\bin\Debug\ArrayElementsEqualToTheirIndex.exe.config
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\ArrayElementsEqualToTheirIndex\bin\Debug\ArrayElementsEqualToTheirIndex.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\ArrayElementsEqualToTheirIndex\bin\Debug\ArrayElementsEqualToTheirIndex.pdb
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\ArrayElementsEqualToTheirIndex\obj\Debug\ArrayElementsEqualToTheirIndex.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\ArrayElementsEqualToTheirIndex\obj\Debug\ArrayElementsEqualToTheirIndex.pdb
