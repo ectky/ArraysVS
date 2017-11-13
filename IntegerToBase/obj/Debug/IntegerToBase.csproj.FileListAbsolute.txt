@@ -1,0 +1,5 @@
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\IntegerToBase\bin\Debug\IntegerToBase.exe.config
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\IntegerToBase\bin\Debug\IntegerToBase.exe
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\IntegerToBase\bin\Debug\IntegerToBase.pdb
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\IntegerToBase\obj\Debug\IntegerToBase.exe
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\IntegerToBase\obj\Debug\IntegerToBase.pdb
