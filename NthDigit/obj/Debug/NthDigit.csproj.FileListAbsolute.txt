@@ -1,0 +1,6 @@
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\NthDigit\bin\Debug\NthDigit.exe.config
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\NthDigit\bin\Debug\NthDigit.exe
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\NthDigit\bin\Debug\NthDigit.pdb
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\NthDigit\obj\Debug\NthDigit.csprojResolveAssemblyReference.cache
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\NthDigit\obj\Debug\NthDigit.exe
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\NthDigit\obj\Debug\NthDigit.pdb

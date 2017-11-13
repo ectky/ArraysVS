@@ -1,0 +1,5 @@
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\Notifications\bin\Debug\Notifications.exe.config
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\Notifications\bin\Debug\Notifications.exe
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\Notifications\bin\Debug\Notifications.pdb
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\Notifications\obj\Debug\Notifications.exe
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\Notifications\obj\Debug\Notifications.pdb
