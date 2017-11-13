@@ -1,0 +1,6 @@
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\CountOfCapitalLettersInArray\bin\Debug\CountOfCapitalLettersInArray.exe.config
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\CountOfCapitalLettersInArray\bin\Debug\CountOfCapitalLettersInArray.exe
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\CountOfCapitalLettersInArray\bin\Debug\CountOfCapitalLettersInArray.pdb
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\CountOfCapitalLettersInArray\obj\Debug\CountOfCapitalLettersInArray.csprojResolveAssemblyReference.cache
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\CountOfCapitalLettersInArray\obj\Debug\CountOfCapitalLettersInArray.exe
+c:\users\elica\documents\visual studio 2017\Projects\Arrays\CountOfCapitalLettersInArray\obj\Debug\CountOfCapitalLettersInArray.pdb
