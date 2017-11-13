@@ -1,0 +1,6 @@
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseMiningCoins\bin\Debug\DebuggingExerciseMiningCoins.exe.config
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseMiningCoins\bin\Debug\DebuggingExerciseMiningCoins.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseMiningCoins\bin\Debug\DebuggingExerciseMiningCoins.pdb
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseMiningCoins\obj\Debug\DebuggingExerciseMiningCoins.csprojResolveAssemblyReference.cache
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseMiningCoins\obj\Debug\DebuggingExerciseMiningCoins.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseMiningCoins\obj\Debug\DebuggingExerciseMiningCoins.pdb

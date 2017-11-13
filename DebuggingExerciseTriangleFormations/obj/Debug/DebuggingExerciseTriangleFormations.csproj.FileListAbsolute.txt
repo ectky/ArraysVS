@@ -1,0 +1,6 @@
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseTriangleFormations\bin\Debug\DebuggingExerciseTriangleFormations.exe.config
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseTriangleFormations\bin\Debug\DebuggingExerciseTriangleFormations.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseTriangleFormations\bin\Debug\DebuggingExerciseTriangleFormations.pdb
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseTriangleFormations\obj\Debug\DebuggingExerciseTriangleFormations.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseTriangleFormations\obj\Debug\DebuggingExerciseTriangleFormations.pdb
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseTriangleFormations\obj\Debug\DebuggingExerciseTriangleFormations.csprojResolveAssemblyReference.cache

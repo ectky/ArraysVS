@@ -1,0 +1,5 @@
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseTetris\bin\Debug\DebuggingExerciseTetris.exe.config
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseTetris\bin\Debug\DebuggingExerciseTetris.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseTetris\bin\Debug\DebuggingExerciseTetris.pdb
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseTetris\obj\Debug\DebuggingExerciseTetris.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseTetris\obj\Debug\DebuggingExerciseTetris.pdb
