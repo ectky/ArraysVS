@@ -1,0 +1,6 @@
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseTrickyStrings\bin\Debug\DebuggingExerciseTrickyStrings.exe.config
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseTrickyStrings\bin\Debug\DebuggingExerciseTrickyStrings.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseTrickyStrings\bin\Debug\DebuggingExerciseTrickyStrings.pdb
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseTrickyStrings\obj\Debug\DebuggingExerciseTrickyStrings.csprojResolveAssemblyReference.cache
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseTrickyStrings\obj\Debug\DebuggingExerciseTrickyStrings.exe
+C:\Users\ELICA\documents\visual studio 2017\Projects\Arrays\DebuggingExerciseTrickyStrings\obj\Debug\DebuggingExerciseTrickyStrings.pdb
